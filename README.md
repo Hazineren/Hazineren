@@ -15,13 +15,61 @@
 
 - ⚡ Fun fact **I am funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eren-hazine-14b1841a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eren-hazine-14b1841a1" height="30" width="40" /></a>
+<h3 align="center">Contact with me:</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eren-hazine-14b1841a1)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hzneren/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazineren24@gmail.com)
+  
+</div>
+
+## 🛠️ My Skills
+
+### 👉 Programming languages
+
+<p align="left"> 
+  &emsp;
+  <a href="" target="_blank"> 
+     <img alt="React" src="https://img.shields.io/badge/React%20-%23F7DF1E.svg?logo=React&logoColor=white&color=blue">
+   </a>
+  &emsp;
+  <a href="" target="_blank"> 
+     <img alt="ReactNative" src="https://img.shields.io/badge/ReactNative%20-%23F7DF1E.svg?logo=ReactNative&logoColor=white&color=blue">
+   </a>
+  &emsp;
+  <a href="" target="_blank"> 
+     <img alt="C#" src="https://img.shields.io/badge/csharp%20-%23F7DF1E.svg?logo=csharp&logoColor=white&color=5cb85c">
+   </a>
+    &emsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### 👉  Frameworks Tools & Technologies..
+<p align="left">
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg"> </code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
+
+</p>
+
+### 👉 Databases & Cloud Hosting
+<p align="left">
+  &emsp;
+    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/MSSQL%20-%23F7DF1E.svg?logo=MSSQL&logoColor=white&color=5bc0de"></a>
+  &emsp;
+  <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/sqlite%20-%23F7DF1E.svg?logo=sqlite&logoColor=white&color=blue"></a>
+  &emsp;
+    <a href="">
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23F7DF1E.svg?logo=firebase&logoColor=white&color=yellow"/>
+  </a>
+    &emsp;
+ </p>
+<p>
+  <br/>
+  <br/>
+ </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazineren&show_icons=true&locale=en&layout=compact" alt="hazineren" /></p>
 
