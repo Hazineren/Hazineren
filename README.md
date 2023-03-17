@@ -29,23 +29,29 @@
 ### 👉 Programming languages
 
 <p align="left"> 
-  &emsp;
+   &emsp;
   <a href="" target="_blank"> 
-     <img alt="React" src="https://img.shields.io/badge/React%20-%23F7DF1E.svg?logo=React&logoColor=white&color=blue">
+     <img alt="JavaScript" src="https://img.shields.io/badge/Javascript%20-%23F7DF1E.svg?logo=Javascript&logoColor=white&color=yellow">
    </a>
   &emsp;
   <a href="" target="_blank"> 
-     <img alt="ReactNative" src="https://img.shields.io/badge/ReactNative%20-%23F7DF1E.svg?logo=ReactNative&logoColor=white&color=blue">
+     <img alt="JSX" src="https://img.shields.io/badge/JSX%20-%23F7DF1E.svg?logo=JSX&logoColor=white&color=blue">
    </a>
   &emsp;
   <a href="" target="_blank"> 
      <img alt="C#" src="https://img.shields.io/badge/csharp%20-%23F7DF1E.svg?logo=csharp&logoColor=white&color=5cb85c">
    </a>
     &emsp;
+  <a href="" target="_blank"> 
+     <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin%20-%23F7DF1E.svg?logo=Kotlin&logoColor=white&color=purple">
+   </a>
+  &emsp;
 </p>
 
 ### 👉  Frameworks Tools & Technologies..
 <p align="left">
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
+  <code> <img height="50" src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg"> </code>
@@ -58,12 +64,13 @@
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/MSSQL%20-%23F7DF1E.svg?logo=MSSQL&logoColor=white&color=5bc0de"></a>
   &emsp;
-  <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/sqlite%20-%23F7DF1E.svg?logo=sqlite&logoColor=white&color=blue"></a>
-  &emsp;
-    <a href="">
+  <a href="">
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23F7DF1E.svg?logo=firebase&logoColor=white&color=yellow"/>
   </a>
     &emsp;
+  <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/sqlite%20-%23F7DF1E.svg?logo=sqlite&logoColor=white&color=blue"></a>
+  &emsp;
+    
  </p>
 <p>
   <br/>
